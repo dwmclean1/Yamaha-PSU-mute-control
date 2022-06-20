@@ -2,7 +2,7 @@
 
 ## What is it?
 
-<p>Allows the use on non original power supplies in older Yamaha rackmount audio devices.</p><br>
+<p>Allows the use of non-original power supplies in older Yamaha rackmount audio devices.</p><br>
 
 ![schematic](PSU.png)<br>
 
